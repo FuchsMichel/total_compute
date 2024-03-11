@@ -1,0 +1,27 @@
+{
+  "name": "total_compute",
+  "version": "1.0.0",
+  "description": "TotalCompute is a comprehensive JavaScript library for computing totals and aggregates. With its efficient algorithms and intuitive interface, TotalCompute simplifies the process of aggregating numeric values, enabling you to perform summations and calculate totals with ease. Whether you're working with financial data, statistical measures, or numerical inputs, TotalCompute provides the tools you need to accurately compute sums and derive meaningful insights from your data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0",
+    "total_compute": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/FuchsMichel/total_compute.git"
+  },
+  "homepage": "https://github.com/FuchsMichel/total_compute/blob/main/README.md",
+  "keywords": [
+    "sum",
+    "add",
+    "tong",
+    "cong"
+  ],
+  "author": "FuchsMichel",
+  "license": "MIT"
+}
